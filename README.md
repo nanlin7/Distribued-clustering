@@ -17,5 +17,6 @@ We built a pipeline that is scalable for store and process violation data which 
 ### Results
 ![results](com_table.png)
 
-Beside comparing speed, performance and cost for different EMR clusters, we also visualized one cluster of results in heatmap. 
+Beside comparing speed, performance and cost for different EMR clusters, we also visualized one cluster of results in heatmap.
+
 ![results2](heatmap.png)
