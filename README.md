@@ -10,5 +10,12 @@ Distributed computing, Distributed databases Distributed information systems, Ma
 
 ### Workflow 
 
+We built a pipeline that is scalable for store and process violation data which could be potentially high frequency and high volumn. We selected AWS as the primary platform to host storage, data extraction, transform and load(ETL) processes and machine learning tasks. The overview of data pipeline:
 ![workflow](architecture.png)
 
+
+### Results
+![results](com_table.png)
+
+Beside comparing speed, performance and cost for different EMR clusters, we also visualized one cluster of results in heatmap. 
+![results2](heatmap.png)
